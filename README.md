@@ -44,8 +44,8 @@
       </p>
     <p align="center">AntarticaDrinks</p>
     <p align="center">
-        <a href="https://freelancer-juandev.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Sitio-FF0000?style=for-the-badge&logoColor=white" alt="@juandev" /></a>
-      <a href="https://github.com/juanfer217/Freelancer" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@juandev"/></a>
+        <a href="[https://freelancer-juandev.netlify.app/](https://antarticadrinks.up.railway.app/)" target="blank"><img align="center" src="https://img.shields.io/badge/Sitio-FF0000?style=for-the-badge&logoColor=white" alt="@juandev" /></a>
+      <a href="https://github.com/juanfer217/sistema-ventas-antarticadrinks" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@juandev"/></a>
     </p>       
 </td>
 <td width="25%" align="center">
