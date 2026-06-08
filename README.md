@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=Juan%20Fernando%20Jaramillo&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-# 👨‍💻 Desarrollador Full Stack Junior
+# 👨‍💻 Desarrollador Frontend Junior
+
+### 🚀 Angular • TypeScript • JavaScript • HTML • CSS
 
 ### Estudiante de Ingeniería de Sistemas | Universidad Mariana
 
@@ -15,22 +17,26 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
-
 <img src="https://komarev.com/ghpvc/?username=juanfer217&label=Visitas&color=2563EB&style=for-the-badge"/>
 
+</p>
 </div>
 
 ---
 
 # 🚀 Sobre Mí
 
-  <p>Ubicacion: Pasto, Colombia</p>
-  <p>Carrera: Ingeniería de Sistemas</p>
-  <p>Universidad: Universidad Mariana</p>
+📍 Nariño, Colombia
 
+🎓 Estudiante de Ingeniería de Sistemas en la Universidad Mariana.
 
-  <p>Estado: Buscando crecer profesionalmente 🚀</p>
+💻 Apasionado por el desarrollo web y la creación de soluciones tecnológicas.
+
+🚀 Actualmente me especializo en Angular, TypeScript y JavaScript mediante proyectos personales y académicos.
+
+🌱 Aprendiendo Node.js, Laravel y bases de datos para continuar mi crecimiento hacia el desarrollo Full Stack.
+
+🎯 Buscando mi primera oportunidad profesional como Desarrollador Frontend Junior.
 
 ---
 
@@ -39,7 +45,7 @@
 ### 🎨 Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=angular,ts,javascript,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css&theme=dark"/>
 </p>
 
 ### ⚙️ Backend
@@ -62,13 +68,19 @@
 
 ---
 
-# 📈 Estadísticas
+### ⭐ Enfocado principalmente en Angular y TypeScript
+
+---
+
+# 🌐 Portafolio
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanfer217&show_icons=true&theme=tokyonight&count_private=true"/>
+### Conoce mis proyectos, habilidades y experiencia
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanfer217&layout=compact&theme=tokyonight"/>
+<a href="https://TU-PORTAFOLIO.vercel.app">
+<img src="https://img.shields.io/badge/🚀%20VER%20PORTAFOLIO-2563EB?style=for-the-badge"/>
+</a>
 
 </div>
 
@@ -79,30 +91,6 @@
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanfer217&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🏆 Logros GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=juanfer217&theme=tokyonight&row=1&column=7"/>
-
-</div>
-
----
-
-# 🌐 Portafolio
-
-<div align="center">
-
-### Explora mis proyectos y experiencia
-
-<a href="https://TU-PORTAFOLIO.vercel.app">
-<img src="https://img.shields.io/badge/🚀%20VER%20PORTAFOLIO-2563EB?style=for-the-badge"/>
-</a>
 
 </div>
 
